@@ -17,5 +17,7 @@ Generate a haiku (a Japanese 5-7-5 syllable poem often relating to nature) using
 
 ### Expected result:
 - Generate a haiku (5-7-5) relating to an input photo
-- Example Input:
-- Example Output
+- Example Input:  
+  ![morning_coffee](https://user-images.githubusercontent.com/69527370/224106895-9572690e-fa20-4df9-b1cf-5193c6be7ad7.jpeg)
+- Example Output:  
+  ![haiku_coffee](https://user-images.githubusercontent.com/69527370/224106832-2998b638-ad8c-4595-a5a6-56b64c8c16e9.png)
