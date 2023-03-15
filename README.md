@@ -12,7 +12,6 @@ Generate a haiku (a Japanese 5-7-5 syllable poem often relating to nature) using
 - [Generating and Evaluating Japanese Haiku Poems with Deep Language Models](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-p31430/)   
 
 ### Related databases:
-- [Haiku Dataset - hjhalani30](https://www.kaggle.com/datasets/hjhalani30/haiku-dataset)
 - [Haiku Dataset - bfbarry](https://www.kaggle.com/datasets/bfbarry/haiku-dataset)
 
 ### Expected result:
