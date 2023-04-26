@@ -1,8 +1,20 @@
 # Haiku Generator from Photo
 by Summer and Evelyn Hasama
+
+**Link to [Google Colab](https://colab.research.google.com/drive/10c8s3OMpfmYegwXHPN35EXQsFH6s_AsS?usp=sharing)**
+
 ## Abstract
 
-Generate a haiku (a Japanese 5-7-5 syllable poem often relating to nature) using deep learning. To make things a bit more interesting, take a photo as input and use an existing object detection model to determine keywords. We would then put these keywords in our haiku text generating model. Evaluate the model using BLEU or GRUEN and MOS subjective test.
+Generate a haiku (a Japanese 5-7-5 syllable poem often relating to nature) using deep learning. To make things a bit more interesting, take a photo as input and use an existing object detection model to determine keywords. We would then put these keywords in our haiku text generating model based on GPT2. Evaluate the generated haikus using BERTScore.
+
+## How to run the code
+
+1. Open the [Google Colab](https://colab.research.google.com/drive/10c8s3OMpfmYegwXHPN35EXQsFH6s_AsS?usp=sharing)
+2. Run all cells 
+
+## How to view the notebook with outputs
+
+If the Python notebook is not rendering in GitHub, you can view it by pasting the github link (https://github.com/Hasama-Twins/DeepLearningHaiku/blob/main/DeepLearningHaiku.ipynb) into [NBViewer](https://nbviewer.org/)
 
 ## Planning
 
