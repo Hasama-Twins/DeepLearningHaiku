@@ -12,10 +12,6 @@ Generate a haiku (a Japanese 5-7-5 syllable poem often relating to nature) using
 1. Open the [Google Colab](https://colab.research.google.com/drive/10c8s3OMpfmYegwXHPN35EXQsFH6s_AsS?usp=sharing)
 2. Run all cells 
 
-## How to view the notebook with outputs
-
-If the Python notebook is not rendering in GitHub, you can view it by pasting the github link (https://github.com/Hasama-Twins/DeepLearningHaiku/blob/main/DeepLearningHaiku.ipynb) into [NBViewer](https://nbviewer.org/)
-
 ## Planning
 
 ### Previous solutions: 
