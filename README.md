@@ -3,7 +3,7 @@ by Summer and Evelyn Hasama
 
 **Link to [Google Colab](https://colab.research.google.com/drive/10c8s3OMpfmYegwXHPN35EXQsFH6s_AsS?usp=sharing)**
 
-### Final Presentation: 
+### Final Presentation Slides: 
 Link to [Presentation](https://docs.google.com/presentation/d/1lzpSot6_RTwWDq4kUmVcCg2LuM-L74fieoMDlLvsDUg/edit?usp=sharing)
 
 ## Abstract
